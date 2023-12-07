@@ -5,6 +5,7 @@
 
 
 ### What this is
+- (a part of the) project in Capstone Design (ICE3037_43)
 - Train VGG-19 using the dataset(https://www.kaggle.com/datasets/warcoder/tyre-quality-classification)
   and make a (pretty damn good) binary classification of the tyres (good / defective) - **Section #0, #1**
   - ![Network Training Progress](https://github.com/50hwan/Tyre-Lifespan-Estimator/assets/23158896/58139f02-6bc4-4d7d-b565-3f996301f18c)
